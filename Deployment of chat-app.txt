@@ -1,0 +1,15 @@
+git init
+create new file .gitignore - node_modules
+git add .
+git commit -m "Init commit"
+create github repository in browser - github.com -> create a new repository app
+git remote add origin git@github.com:andrewjmead/Learning.git
+git push -u origin master
+
+heroku create chat-app
+
+git push heroku master
+
+Now our app is deployed to heroku and can be seen on the link given by heroku
+
+that link can be shared among ur friends and can chat over there
