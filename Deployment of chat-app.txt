@@ -10,6 +10,6 @@ heroku create chat-app
 
 git push heroku master
 
-Now our app is deployed to heroku and can be seen on the link given by heroku
+Now our app is deployed to heroku and can be seen on the link given by heroku...
 
 that link can be shared among ur friends and can chat over there
